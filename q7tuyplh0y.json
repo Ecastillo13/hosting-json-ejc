@@ -1,0 +1,19 @@
+{
+	"firstName":"Harleen",
+	"lastName":"Quinzel",
+	"preferredName":"Harley Quinn",
+	"email":"misterJLovesQuinn@hotmail.com",
+	"phoneNumber":"815-436-0987",
+	"class":"acrobatics",
+	"room":"Room number 459",
+	"startTime":"5pm CT",
+	"seatNumber":"74",
+	"inPerson":[ "Friday" ],
+	"virtual": [ "Monday", "Tuesday" ],
+	"city":"Gotham City",
+	"state":"NJ",
+	"zip":"07096",
+	"lat":"41.88",
+	"lng":"-88.01", 
+	"favoriteHobby": "Pleasing the Joker"
+}

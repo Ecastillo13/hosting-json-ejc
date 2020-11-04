@@ -1,0 +1,19 @@
+{
+	"firstName":"Eli",
+	"lastName":"Castillo",
+	"preferredName":"Eli",
+	"email":"elijcastillo@lewisu.edu",
+	"phoneNumber":"630-962-0543",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"425",
+	"inPerson":[ "Monday" ],
+	"virtual": [ "Wednesday", "Friday" ],
+	"city":"Plainfield",
+	"state":"IL",
+	"zip":"60586",
+	"lat":"41.88",
+	"lng":"-88.01", 
+	"favoriteHobby": "Watching TV"
+}
